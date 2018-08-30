@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/s-l1600.jpg
 title: Installing/using Arch Linux for daily use
 permalink: projects/arch
 # All dates must be YYYY-MM-DD format!
@@ -12,6 +12,7 @@ labels:
   - Terminal
   - Vim
 summary: Over the summer, I installed Arch Linux on my laptop to be dual booted along with windows.
+projecturl: www.archlinux.org
 ---
 
 <div class="ui small rounded images">
