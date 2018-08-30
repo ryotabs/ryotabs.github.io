@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/beers.png
 title: Beer sorter
 permalink: projects/beersorter
 # All dates must be YYYY-MM-DD format!
