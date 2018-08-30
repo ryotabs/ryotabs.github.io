@@ -14,7 +14,7 @@ labels:
 summary: A list of beers that were organized with basic sorting algorithms in ICS 211
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/beer.jpg">
 
 In our Introduction to Computer Science class, we began to explore various abstract data types and sorting methods that provided us with the foundation of how these data types were applied, and how these sorting algorithms were implemented. To do this, we were tasked with adding different kinds of beers to a list, and using the sorting algorithms to sort the beers in a iven order (by type, individual bitter units, alcohol by volume). 
 
