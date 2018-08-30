@@ -11,7 +11,7 @@ labels:
   - Beer
   - Basic sorts
   - Object oriented programming
-summary: A list of beers that was organized with basic sorting algorithm in ICS 211
+summary: A list of beers that were organized with basic sorting algorithms in ICS 211
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
