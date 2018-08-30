@@ -15,7 +15,7 @@
 projecturl: www.archlinux.org
 ---
 
-<img class="ui medium right floated rounded image" src="/images/linuxrice.png">
+<img class="ui image" src="/images/linuxrice.png">
 
  Over the summer, I had the pleasure of installing Arch Linux on my Dell XPS 15. I do prefer macOS, as the unix-based OS seems ideal for my computer science courses, but didn't like the hardware, as the components were underpowered for the steep price point, and the touch bar was probably the worst input experience that I've ever encountered. I also had problems with the keyboard, as it was continuously skipping letters, and was the most atrocious thing to type on. When [one of the keys on my keyboard died](https://www.apple.com/support/keyboard-service-program-for-macbook-and-macbook-pro/), I didn't waste any time to replace the faulty key, back up my files and settings, restore the computer to factory defaults, and sell it on Facebook Market for nearly as much as I paid for it when I got it a year earlier. Although I sold the computer, I didn't want to part with macOS, and I absolutely did not want to be stuck with Windows 10 as well. I wanted all the goodies of macOS (unix shell, terminal, clean and sleek UI) in a machine that also had good components at a reasonable price. This is where the XPS 15, and Linux come into the story.
  
