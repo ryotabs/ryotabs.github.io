@@ -27,4 +27,6 @@ Arch Linux has the reputation of being notoriously difficult to install for thos
 
 After numerous failed install attempts, I was finally able to get it up and running with a window manager, custom configurations, and desired applications that I will be using for my classes. The Arch Linux Wiki was my primary resource in assisting with the install, and is considered to be the best documentation across the Linux distributions. I became very comfortable with terminal commands, as I had to do various things like partitioning my hard drive, formatting the partitions, and downloading software, to name a few. I also worked with a lot of configuration files, and used a text editor called 'Vim'. Vim had such a steep learning curve, but once I learned it, I became much more productive editing my configuration files, and am also able to help my classmates with learning Vim, as we are currently using it in ICS212. 
 
+More information can be found on the [Arch Linux homepage](https://www.archlinux.org/)
+
 
