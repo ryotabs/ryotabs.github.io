@@ -15,7 +15,7 @@ summary: In 2015, I obtained my Security+ certification.
 
 <img class="ui image" src="/images/comptia.png">
 
-Taking the Security+ certification test was one of the hardest and most stressful exams that I took at the time. I took it right after I graduated from high school because it was a requirement for an IT job that I was working at the time. Today, the Security+ certification is regarded as one of the basic certifications that are needed to be competitive in the IT job market, and mainly consists of general IT security concepts like access control, device vulnerabilities, and social engineering to name a few. 
+Taking the Security+ certification test was one of the hardest and most stressful exams that I took at the time. I took it right after I graduated from high school because it was a requirement for an IT job that I was working at the time. Today, the Security+ certification is regarded as one of the basic certifications that are needed to be competitive in the IT job market, and mainly consists of general IT security concepts like access control, device vulnerabilities, and social engineering to name a few. You can go [here](https://certification.comptia.org/certifications/security) to learn more!
 
 The test consisted of a multiple choice section, and a practial application section. The multiple choice section was self explanatory, and was the same as every other test that I have taken before. For the practical section, we were supposed to configure a network firewall, an access control list, and other types of configurations as well, and contributed to a majority of the stress that I was feeling throughot the exam. 
 
