@@ -58,8 +58,8 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Linux (Arch Linux)",
-        "Bash/Terminal",
+        "Linux",
+        "Terminal",
         "Vi/Vim",
         "LaTeX"
       ]
@@ -90,47 +90,34 @@
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
       ]
-    }
-  ],
-  "volunteer": [
+    }, 
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "company": "Hawaii Air National Guard",
+      "position": "Client Systems Technician",
+      "website": "https://www.goang.com/locations/hawaii/Maui-Air-National-Guard-Communications-Statio",
+      "startDate": "2014-03-14",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Provide in-person support for basic hardware and application issues",
+        "Manage user accounts with Active Directory",
+        "Provide basic network troubleshooting",
+        "Provide status on mission essential systems as the communication focal point"
       ]
-    }
+    }, 
   ],
   "certifications": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Security+",
+      "date": "2015",
+      "awarder": "CompTIA",
+      "summary": "CompTIA Security+ is a global certification that validates the baseline skills you need to perform core security functions and pursue an IT security career."
     },
     {
-      "title": "First place",
+      "title": "A+",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "CompTIA",
+      "summary": "CompTIA A+ is the preferred qualifying credential for technical support and IT operational roles. It is about much more than PC repair."
     }
   ],
   "references": [
