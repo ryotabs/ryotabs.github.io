@@ -10,7 +10,7 @@ labels:
   - Athleticism
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/javascript.png">
 
 ## Is it supposed to feel this way?
 
