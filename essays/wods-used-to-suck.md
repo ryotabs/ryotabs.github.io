@@ -10,7 +10,7 @@ labels:
   - Athleticism
 ---
 
-<img class="ui tiny right spaced image" src="../images/javascript.png">
+<img class="ui tiny right spaced image" src="../images/javascript.jpg">
 
 ## Is it supposed to feel this way?
 
