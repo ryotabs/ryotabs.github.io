@@ -9,6 +9,8 @@ labels:
   - Terminal
 ---
 
+<img class="ui tiny right spaced image" src="../images/i3_screenshot.png">
+
 To get an overall description of the experience, I also described this project [here](https://ryotabs.github.io/projects/arch). 
 
 ## The reasoning
