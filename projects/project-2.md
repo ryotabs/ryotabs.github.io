@@ -22,4 +22,4 @@ To accomplish this, we first had to make the different kinds of beers, that were
 
 We also implemented some basic sorts (selection, insertion, and bubble sort) to get an introduction to sorting algorithms. We learned how the sorting algorithms work, and how they are implemented. 
 
-Souce coude can be found [here](https://github.com/ryotabs/beersorter).
+Souce code can be found [here](https://github.com/ryotabs/beersorter).
