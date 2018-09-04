@@ -10,7 +10,7 @@ labels:
   - Athleticism
 ---
 
-<img class="ui tiny right spaced image" src="../images/javascript.jpg">
+<img class="ui right spaced image" src="../images/javascript.jpg">
 
 ## Is it supposed to feel this way?
 
@@ -24,4 +24,4 @@ As a complete newbie, learning Javascript was definitely a good experience comin
 
 ## WODs used to suck
 
-In a past life, I did some crossfit for a little bit, and have done a few WODs. That was one of the most painful phsycial experiences that I've put myself through. Doing those WODs left me physcially drained, and at one point, I thought they served no other pupose than to make me puke, so I was a little surprised when I heard the term WOD in the context of software engineering. However, as I went through the practice WODs, I felt like they did a good job at emulating the same feeling of an acutal, physical WOD. Instead of physical pain, these WODs provided a lot of mental stimulation, and exercised the muscle of the mind. I feel like this approach is appropriate for software engineering as it provides the right mental stimulation that is needed, and also provides practice on the language so it gives us a lot of exposure to get comfortable with it. They also provide an opportunity to stay consistent, as there is a practice WOD nearly every day, that is either done at home, or in class, so the WODs will definitely have a positive impact on the learning process. 
+In a past life, I did some crossfit for a little bit, and have done a few WODs, which were one of the most painful phsycial experiences that I've ever put myself through. Doing those WODs left me physcially drained, and at one point, I thought they served no other pupose than to make me puke, so I was a little surprised when I heard the term WOD in the context of software engineering. I thought that I was in a world of hurt, and that the mental abuse was so bad that it would make me want to puke. However, as I went through the practice WODs, I felt like they did a good job at emulating the same feeling of an acutal, physical WOD, without all of the bad parts. Instead of physical pain, these WODs provided a lot of mental stimulation, and exercised the muscle of the mind. I feel like this approach is appropriate for software engineering as it provides the right mental stimulation that is needed, and also provides practice on the language so it gives us a lot of exposure to get comfortable with it. They also provide an opportunity to stay consistent, as there is a practice WOD nearly every day, that is either done at home, or in class, so the WODs will definitely have a positive impact on the learning process. 
