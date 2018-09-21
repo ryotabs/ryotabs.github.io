@@ -10,7 +10,7 @@ labels:
   - Code style
 ---
 
-<img class="ui right spaced image" src="../images/stackoverflow.png">
+<img class="ui right spaced image" src="../images/eslint-logo.png">
 
 ## Standards are a thing?
 When I decided to step into the world of computer science, standards were one of the things that honestly has not passed my mind at all. It seemed like coding standards did not exist, as programming seemed like such an expressive activity, in the sense that there were multiple ways to solve a problem. I thought that the extent of having readable and maintanable code was to have correct spacing, and not write an entire program on one line. Other than that, as long as the problem or issue gets solved, then there's nothing to worry about, right? After all, all people care about is the end product, as long as there's a product released to the customer, the company gets their money, and everyone's happy. Except for the software engineers/developers that have to fix the inevitable bugs and errors that start to appear down the line because no set coding standard was implemented. 
