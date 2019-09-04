@@ -42,7 +42,7 @@
       "name": "quantitative analysis",
       "keywords": [
       ]
-    },
+    }
   ],
   "skills": [
     {
@@ -59,6 +59,7 @@
       "level": "",
       "keywords": [
         "Linux",
+        "Git/Github",
         "Terminal",
         "Vi/Vim",
         "LaTeX",
