@@ -68,6 +68,16 @@
   ],
   "education": [
     {
+      "institution": "University of Hawaii, Maui, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2016-01-15",
+      "endDate": "2017-05-23",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
@@ -101,7 +111,7 @@
       "summary": "",
       "highlights": [
         "Provide in-person support for basic hardware and application issues",
-        "Manage user accounts with Active Directory",
+        "Manage network resources using Microsoft Administrative Tools such as Active Directory, Microsoft Exchange, and other system administration tools. ",
         "Provide basic network troubleshooting",
         "Provide status on mission essential systems as the communication focal point"
       ]
