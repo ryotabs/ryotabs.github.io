@@ -90,6 +90,8 @@
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
+        "Add and update data into the support call tracking system",
+        "Monitor network operations",
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }, 
@@ -103,8 +105,8 @@
       "highlights": [
         "Provide in-person support for basic hardware and application issues",
         "Manage network resources using Microsoft Administrative Tools such as Active Directory, Microsoft Exchange, and other system administration tools. ",
-        "Provide basic network troubleshooting",
-        "Provide status on mission essential systems as the communication focal point"
+        "Ensure compliance of network user accounts and computers by using Active Directory and Group Policy.",
+        "Utilize ticketing system to process user requests to track various issues and resolve them in a timely manner."
       ]
     }, 
   ],
