@@ -10,8 +10,6 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui right spaced image" src="../images/eslint-logo.png">
-
 ## Gone but not forgotten 
 It's been almost a year since I touched anything relating to programming or Computer Science in general, and I'm very very glad to be back. It turns out that just because you take a break from school, school doesn't take a break from you. The long hiatus hasn't really done me any favors in regards to my return to programming, and definitely made me realize that programming is something that one must continue to improve over time. Jumping right into Javascript in the beginning of ICS314 definitely made me feel a little intimidated, considering that many of my peers in my class were so comfortable writing code from recently taking ICS211 or 212 a semester or two prior, but that didn't stop me from trying my best to get back into the swing of things. By the time the Fall 2019 semester started, I was ready to attack anything that came my way. Nothing, not even a rabid dog, or a giant African lizard guarding my computer, or the rage of a furious significant other ready to rain hell on me for spending too much time with my friends would stop me from diving back into my groove in school. Nothing would stop me from rekindling the flame. 
 
