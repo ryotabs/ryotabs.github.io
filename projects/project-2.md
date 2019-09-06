@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/beers.png
-title: Progression in the Gym
+image: images/lifter.png
+title: Journey into Powerlifting
 permalink: projects/lifting-weights
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-15
