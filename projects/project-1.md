@@ -1,7 +1,7 @@
 ---
  layout: project
  type: project
- image: images/s-l1600.jpg
+ image: images/435AEW.jpg
  title: Fun In the African Sun
  permalink: projects/fun-in-the-sun
  # All dates must be YYYY-MM-DD format!
