@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/beers.png
-title: Beer sorter
+title: The Powerlifting Journey
 permalink: projects/powerlifting-club
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-15
