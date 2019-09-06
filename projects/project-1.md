@@ -26,6 +26,6 @@ Since we were a pretty small group, everyone had a lot on their plates, and ther
 
 We played volleyball with the Germans...
 
-<img class="ui centered big middle floated rounded image" src="../images/tylers_birthday.jpeg">
+<img class="ui centered big middle rounded image" src="../images/tylers_birthday.jpeg">
 
 Celebrated birthdays!
