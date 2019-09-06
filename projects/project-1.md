@@ -24,8 +24,8 @@ Since we were a pretty small group, everyone had a lot on their plates, and ther
 
 <img class="ui large middle floated rounded image" src="../images/having_a_ball.jpeg">
 
-We played volleyball with the Germans...
+<p>We played volleyball with the Germans...</p>
 
 <img class="ui large middle floated rounded image" src="../images/tylers_birthday.jpeg">
 
-Celebrated birthdays!
+<p>Celebrated birthdays!</p>
