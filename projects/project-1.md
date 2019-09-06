@@ -29,3 +29,5 @@ We played volleyball with the Germans...
 <img class="ui centered big middle rounded image" src="../images/tylers_birthday.jpeg">
 
 Celebrated birthdays!
+
+<img class="ui centered big middle rounded image" src="../images/bean_bag.jpeg">
