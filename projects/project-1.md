@@ -31,3 +31,9 @@ We played volleyball with the Germans...
 Celebrated birthdays!
 
 <img class="ui centered big middle rounded image" src="../images/bean_bag.jpeg">
+
+And even played a few games of cornhole after a long day of work!
+
+After all the things I've learned and experienced, I can say that I am definitely grateful to have the opportunity to go halfway across the world. Although there were some good experiences involved, I'm now ready to get back into the routine and grind of school, and focus on completing my degree.
+
+If you'd like to hear about what was going on in Africa at the base I deployed at, you can read an article [here](https://www.airforcetimes.com/news/your-air-force/2019/01/03/new-in-2019-two-new-us-airbases-in-africa-nearing-completion/)
