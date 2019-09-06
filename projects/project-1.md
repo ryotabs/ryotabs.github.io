@@ -22,10 +22,10 @@ However, technical knowledge wasn't the only thing that I learned/expanded throu
 
 Since we were a pretty small group, everyone had a lot on their plates, and there were definitely more long days than I could count. However, that didn't mean that we couldn't have fun while we were out there!
 
-<img class="ui centered large middle rounded image" src="../images/having_a_ball.jpeg">
+<img class="ui centered big middle rounded image" src="../images/having_a_ball.jpeg">
 
 We played volleyball with the Germans...
 
-<img class="ui large middle floated rounded image" src="../images/tylers_birthday.jpeg">
+<img class="ui centered big middle floated rounded image" src="../images/tylers_birthday.jpeg">
 
 Celebrated birthdays!
