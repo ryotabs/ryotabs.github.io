@@ -28,8 +28,6 @@ Completion of the WOD at Rx time on your first try for every WOD thrown at you i
 
 With everything that goes on in a WOD, it is way more than just learning the material. WODs in ICS314 are an entire experience that you are immersed in, and has real-life practicality as it mirrors whiteboard interviews at all the dream companies that Software Engineer hopefuls like myself want to get into. Each exercise gives you a feeling of satisfaction and accomplishment, almost similar to getting a personal record at the gym, or like finally turning in that long project after lots of hard work. With these accomplishments of performing WODs, it's almost like they're like weekly pick-ups that refresh you and leave you wanting more and more to take your learning experience to the next level.
 
-this is a test
-
 ## The push to victory
 
 The learning methods that we will utilize in our Software Engineering class will set us up for success in our futures, and I am more than happy to be able to participate and learn from this process. The road ahead seems hard, but like many rewarding skills, the amount of efficient time put in will make room for success. I'm looking forward to learning numerous skills and gaining mastery of different tools and frameworks, and I can't wait to have a great semester with the rest of my classmates. I hope for all of us to be successful and work together in every step of our journey, even after graduating college.
