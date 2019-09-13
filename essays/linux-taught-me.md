@@ -21,5 +21,9 @@ Here's an example of a pretty good question that was asked.
 
 <img class="ui centered big middle rounded image" src="../images/good_question.png">
 
+Taking a few qualities from the essay, we can see that the question this person is asking is off to a good start, as the issue that they are experiencing has been established in the title. Then, we also see the inclusion of source code and error messages that appear as well to further describe the issue. The OP (original poster) also describes their issue concisely at the beginning of the question as well, making their intentions clear as to what they are trying to accomplish. They also include the exact thing that they are looking for, instead of saying "please help me!!!!" like many questions end with.
+
+Here's another example.
+
 
 
