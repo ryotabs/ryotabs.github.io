@@ -51,6 +51,7 @@
       "keywords": [
         "Java",
         "C",
+	"Bash",
         "Javascript"
       ]
     },
@@ -82,7 +83,7 @@
     }
   ],
   "work": [
-    
+
     {
       "company": "University of Hawaii Information Technology Services",
       "position": "Help Desk Consultant",
@@ -96,7 +97,7 @@
         "Monitor network operations",
         "Answer phone and email responses to the ITS Help Desk"
       ]
-    }, 
+    },
     {
       "company": "Hawaii Air National Guard",
       "position": "Client Systems Technician",
