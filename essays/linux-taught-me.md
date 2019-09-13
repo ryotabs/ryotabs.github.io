@@ -33,5 +33,12 @@ And, as expected, we get the famous RTFM answer here..
 
 <img class="ui centered big middle rounded image" src="../images/bad_answer.png">
 
+Which tells us that the answer was found in some kind of documentation of whatever technology/system that the person was using.
+
+## You get what you give
+
+After reading the essay, I was able to say that I have seen and experienced a majority of the phenomenon first hand. I've been getting into Linux recently by installing Arch Linux, and have been starting to warm up to the idea of terminal/vim-based applications as they have proved to be extremely efficient for a few things. The 'man' command in Linux provides a full, detailed manual of all the possible commands that the particular application has. The Arch Linux Wiki is also said to have the best documentation on almost all kinds of major Linux utilities. The Arch Linux forums also strictly adhere to the smart question format, as those that answer almost always reference the documentation in their answers, and are always asking for configuration outputs to ensure that settings are properly configured. Like the Stack Overflow examples, the best thing to do is to include as much detail as possible, and stating anything and everything that you have tried already.
+
+Having some early practice on the Arch Linux forums will definitely help me with answering smart questions, and solidifies the fact that you can never overcommunicate the details of your issue.
 
 
