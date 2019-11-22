@@ -51,8 +51,9 @@
       "keywords": [
         "Java",
         "C",
-	"Bash",
-        "Javascript"
+	      "Bash",
+        "Javascript",
+        "React"
       ]
     },
     {
@@ -66,7 +67,9 @@
         "LaTeX",
         "Microsoft Active Directory",
         "Microsoft Exchange",
-        "MacOS"
+        "MacOS",
+        "Meteor.js",
+        "MongoDB"
       ]
     }
   ],
