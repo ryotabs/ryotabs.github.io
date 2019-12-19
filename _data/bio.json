@@ -42,6 +42,12 @@
       "name": "quantitative analysis",
       "keywords": [
       ]
+    },
+    {
+      "name": "web development",
+      "keywords": [
+
+      ]
     }
   ],
   "skills": [
@@ -51,9 +57,11 @@
       "keywords": [
         "Java",
         "C",
-	      "Bash",
+	      "Bash/Shellscript",
         "Javascript",
-        "React"
+        "MeteorJS",
+        "React",
+        "AngularJS"
       ]
     },
     {
@@ -61,14 +69,14 @@
       "level": "",
       "keywords": [
         "Linux",
-        "Git/Github",
+        "Git",
         "Terminal",
         "Vi/Vim",
+        "Emacs",
         "LaTeX",
         "Microsoft Active Directory",
         "Microsoft Exchange",
         "MacOS",
-        "Meteor.js",
         "MongoDB"
       ]
     }
@@ -86,13 +94,25 @@
     }
   ],
   "work": [
-
+    {
+      "company": "University of Hawaii Information Technology Services",
+      "position": "Web Application Developer",
+      "website": "http://www.hawaii.edu/its/help",
+      "startDate": "2019-12-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Develop web applications using modern tools, frameworks and languages like Java, AngularJS, Maven, and SpringBoot",
+        "Collaborate with peers and senior developers during weekly meetings for code review",
+        "Create documentation for various processes to assist future developers and facilitate efficient training practices."
+      ]
+    },
     {
       "company": "University of Hawaii Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/help",
       "startDate": "2017-08-01",
-      "endDate": "Present",
+      "endDate": "2017-09-01",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
