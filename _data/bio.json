@@ -83,13 +83,24 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2017-08-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii Maui College, Kahului, HI",
+      "area": "Liberal Arts and Sciences",
+      "studyType": "A.A.",
+      "startDate": "2016-01-08",
+      "endDate": "2017-05-10",
+      "gpa": "3.7",
+      "courses": [
+
       ]
     }
   ],
