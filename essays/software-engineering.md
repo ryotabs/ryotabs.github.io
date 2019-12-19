@@ -19,7 +19,7 @@ Whew, it's definitely been a semester for sure! This has definitely been one of 
 
 In my opinion, having a foundational understanding of Git was one of the most important things that I have taken away from this course. Git is a tool that is used among teams to collaborate efficiently and effectively, and is normally used as a command-line application, which consists of typing commands manually in the command line. When learning it for the first time, typing new commands in is prone to error, and gives us another thing to worry about when we were learning the system for the first time. By using the desktop interface for Git, we were able to grasp the concept of how Git worked and how we could use it to contribute to projects instead of worrying about typos in our commands. I mean, looking at the difference between the two is already self-explanatory.
 
-<img class="ui centered big middle rounded image" src="../images/gitvsgithub.png">
+<img class="ui centered huge middle rounded image" src="../images/gitvsgithub.png">
 
 
 
